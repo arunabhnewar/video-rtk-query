@@ -1,81 +1,136 @@
 {
-    "videos": [
-        {
-            "id": 1,
-            "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
-            "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
-            "author": "Learn with Sumit",
-            "date": "May 10, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
-            "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg"
-        },
-        {
-            "id": 2,
-            "title": "VS Code Snippets - Boost your productivity with User Snippets",
-            "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
-            "author": "Learn with Sumit",
-            "date": "April 25, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
-            "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg"
-        },
-        {
-            "id": 3,
-            "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
-            "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
-            "author": "Learn with Sumit",
-            "date": "March 11, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
-            "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg"
-        },
-        {
-            "id": 4,
-            "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
-            "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
-            "author": "Learn with Sumit",
-            "date": "Jan 06, 2022",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
-            "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg"
-        },
-        {
-            "id": 5,
-            "title": "SASS Tutorial in English - Overview of SASS",
-            "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
-            "author": "Learn with Sumit",
-            "date": "Nov 22, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
-            "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg"
-        },
-        {
-            "id": 6,
-            "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
-            "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
-            "author": "Learn with Sumit",
-            "date": "Nov 08, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
-            "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg"
-        },
-        {
-            "id": 7,
-            "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
-            "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
-            "author": "Learn with Sumit",
-            "date": "Oct 15, 2021",
-            "duration": "10:12",
-            "views": "2.1k",
-            "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
-            "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg"
-        }
-    ]
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Learn with Sumit",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "Learn with Sumit",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Learn with Sumit",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "Learn with Sumit",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg"
+    },
+    {
+      "id": 8,
+      "title": "CORS কি - What is CORS policy - বাংলা CORS টিউটোরিয়াল",
+      "description": "ক্লায়েন্ট সার্ভার রিকুয়েস্ট রেসপন্স সাইকেলে একটি স্ট্যান্ডার্ড পলিসি হলো CORS বা Cross-Origin Resource Sharing পলিসি। এই বিষয়টি আসলে কি, কিভাবে CORS error সমাধান করা যায়, কিভাবে সার্ভার থেকে সঠিক CORS header পাঠানো যায় ইত্যাদি গুরুত্বপূর্ণ কনসেপ্ট এর সহজ ব্যাখ্যা দেয়া হয়েছে এই ভিডিওতে।",
+      "author": "Learn with Sumit",
+      "date": "Jun 18, 2022",
+      "duration": "17:31",
+      "views": "22k",
+      "link": "https://www.youtube.com/embed/Ry_r8DCj3hw",
+      "thumbnail": "https://i.ytimg.com/vi/Ry_r8DCj3hw/maxresdefault.jpg"
+    },
+    {
+      "id": 9,
+      "title": "আমার কোড এডিটর - Visual Studio Code - Installation, Plugins, Themes এবং Customization",
+      "description": "এই ভিডিওটি আমি মূলত দিয়েছি আপনাদের অনুরোধে। আমি এখন পর্যন্ত সবচেয়ে বেশি কমেন্ট পেয়েছি আমার VS Code Setup নিয়ে। এতো অনুরোধ ফেলতে পারলাম না। আমি কি থিম, ফন্ট, প্লাগইন ব্যবহার করি, কি কি কাস্টমাইজেশন করেছি ইত্যাদি নিয়ে আপনাদের সমস্ত curiosity এর উত্তর এই ভিডিওতে পাবেন। সেইসাথে যারা একদম beginner তারা scratch থেকে কিভাবে VS Code ইন্সটল করে সেটআপ করতে হয়, কি কি জিনিস জানতে হয় ইত্যাদি নিয়ে একটা ধারণা পেয়ে যাবেন এই ভিডিওতে।",
+      "author": "Learn with Sumit",
+      "date": "Nov 12, 2020",
+      "duration": "35:22",
+      "views": "42.8k",
+      "link": "https://www.youtube.com/embed/3iG1IBJHTgE",
+      "thumbnail": "https://i.ytimg.com/vi/3iG1IBJHTgE/maxresdefault.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Lesson #1 - What is DOM - Play with DOM - Explained in Bangla",
+      "description": "In this video you will learn the theoretical concept of DOM ( Document Object Model )",
+      "author": "Learn with Sumit",
+      "date": "Dec 17, 2020",
+      "duration": "8:21",
+      "views": "50.1k",
+      "link": "https://www.youtube.com/embed/XY96d0vEdFk?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_",
+      "thumbnail": "https://i.ytimg.com/vi/XY96d0vEdFk/maxresdefault.jpg"
+    },
+    {
+      "id": 11,
+      "title": "#8 - Raw Node Project (Part 1) - Node.js Tutorial Bangla | Bangla Node js Tutorial",
+      "description": "চলমান Node.js টিউটোরিয়াল সিরিজে আজ থেকে প্রথম বারের মতো একটি সম্পূর্ণ প্রজেক্ট করে দেখানো শুরু করছি। এই প্রজেক্টে আমি একটি 'Uptime Monitoring API' বানিয়ে দেখাচ্ছি। তারই ধারাবাহিকতায় দ্বিতীয় পার্ট এর ভিডিও হলো এটি। এই ভিডিওতে আমি Environment Variable কিভাবে ব্যবহার করতে হয়, Data Store করার জন্য File System এর ব্যবহার এবং আগের টিউটোরিয়ালে দেখানো Routing সেটআপ & Node এর core fs module ব্যবহার করে CRUD (CREATE READ UPDATE DELETE) তৈরী করা দেখিয়েছি। আশা করি ভিডিওটি Beginners দের উপকারে আসবে। ",
+      "author": "Learn with Sumit",
+      "date": "Nov 16, 2020",
+      "duration": "59:12",
+      "views": "48.5k",
+      "link": "https://www.youtube.com/embed/Xg4effPSJXk",
+      "thumbnail": "https://i.ytimg.com/vi/Xg4effPSJXk/maxresdefault.jpg"
+    },
+    {
+      "id": 12,
+      "title": "4 ways to fetch fetch data from API in React (Bangla) | fetch axios swr and react-query",
+      "description": "In this video, I have explained 4 ways to fetch fetch data from API in React (Bangla) using fetch API,  axios, swr and react-query.",
+      "author": "Learn with Sumit",
+      "date": "Jun 28, 2022",
+      "duration": "37:04",
+      "views": "19.3k",
+      "link": "https://www.youtube.com/embed/7exOfIAKuWU",
+      "thumbnail": "https://i.ytimg.com/vi/7exOfIAKuWU/maxresdefault.jpg"
+    }
+  ]
 }
