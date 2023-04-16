@@ -1,6 +1,4 @@
-import React from "react";
-
-const TextInput = ({ title, ...attributes }) => {
+export default function TextInput({ title, ...attributes }) {
   return (
     <>
       <label className='block text-sm font-medium text-gray-700'>{title}</label>
@@ -11,6 +9,4 @@ const TextInput = ({ title, ...attributes }) => {
       />
     </>
   );
-};
-
-export default TextInput;
+}

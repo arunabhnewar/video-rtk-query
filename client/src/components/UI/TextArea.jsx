@@ -1,6 +1,4 @@
-import React from "react";
-
-const TextArea = ({ title, ...attributes }) => {
+export default function TextArea({ title, ...attributes }) {
   return (
     <>
       <label className='block text-sm font-medium text-gray-700'>{title}</label>
@@ -15,6 +13,4 @@ const TextArea = ({ title, ...attributes }) => {
       </p>
     </>
   );
-};
-
-export default TextArea;
+}
