@@ -131,6 +131,17 @@
       "views": "19.3k",
       "link": "https://www.youtube.com/embed/7exOfIAKuWU",
       "thumbnail": "https://i.ytimg.com/vi/7exOfIAKuWU/maxresdefault.jpg"
+    },
+    {
+      "title": "Introduction - Modern JavaScript Syntaxes in Bangla ( বাংলা ) - ES6 + in Bangla",
+      "description": "JavaScript (JS) is a lightweight, object-oriented, interpreted programming language. In 1996, Netscape submitted JS to ECMA International to be standardized, which lead to a new version of the language called ECMAScript. It took nearly 15 years for ECMAScript to see major changes, and since then, it has been updated regularly. The biggest update occurred in 2015 when ECMAScript 6 (ES6) or ECMAScript 2015 (ES2015) was officially released. ES6 features modernized JavaScript and made it more popular. JavaScript is a very dynamic language and is updating regularly. It's a challenge for programmers to run and keep themselves updated with its constant pace.\n\nIn this Crash Course, I would take you through some important and modern JavaScript syntaxes. I would try to cover those features which will make your life easier when you try to learn some modern JavaScript frameworks or libraries like React.js, Angular, Vue.js etc. Not only that, this will empower your JavaScript skills I believe.",
+      "author": "Learn with Sumit",
+      "link": "https://www.youtube.com/embed/PWXkYBmlbB4?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG",
+      "thumbnail": "https://i.ytimg.com/vi/PWXkYBmlbB4/maxresdefault.jpg",
+      "date": " Sep 22, 2020",
+      "duration": "1:47",
+      "views": "72,285",
+      "id": 13
     }
   ]
 }
