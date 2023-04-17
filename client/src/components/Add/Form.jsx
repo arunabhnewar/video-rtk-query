@@ -5,7 +5,7 @@ import Success from "../UI/Success";
 import TextArea from "../UI/TextArea";
 import TextInput from "../UI/TextInput";
 
-const Form = () => {
+export default function Form() {
   // Hooks
   const [addVideo, { isLoading, isSuccess, isError }] = useAddVideoMutation();
 
@@ -131,6 +131,4 @@ const Form = () => {
       </div>
     </form>
   );
-};
-
-export default Form;
+}
